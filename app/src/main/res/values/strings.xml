@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kotlin_lab</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="nameHint">Jhon Wick</string>
+    <string name="ageHint">45</string>
+    <string name="show">SHOW</string>
+    <string name="app">Notification App</string>
+    <string name="channel_description">des</string>
+    <string name="channel_name">namech</string>
+    <string name="view">Welcome to Notification Window</string>
+
+</resources>
